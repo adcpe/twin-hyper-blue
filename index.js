@@ -1,5 +1,4 @@
 const FOREGROUND = '#BCC0CC'
-const LIGHTBACKGROUND = '#152947'
 const BACKGROUND = '#112239'
 const DARKBACKGROUND = '#0E1C2F'
 const BORDER = '#1E232F'
@@ -48,7 +47,7 @@ exports.decorateConfig = (config) =>
     cursorColor: GREEN,
     cursorShape: 'BLOCK',
     lineHeight: 1.2,
-    selectionColor: GREEN,
+    selectionColor: LIGHTGREEN,
     borderColor: BORDER,
     fontSize: 14,
     css: `
