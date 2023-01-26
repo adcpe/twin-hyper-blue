@@ -7,17 +7,17 @@ const BLACK = '#4A4D4C'
 const RED = '#E84030'
 const GREEN = '#14B369'
 const YELLOW = '#EBD547'
-const ORANGE = '#FCAF22'
+const BLUE = '#38A6F5'
 const PURPLE = '#B04CE6'
-const CYAN = '#38A6F5'
+const ORANGE = '#FCAF22'
 const WHITE = '#BABDBC'
 const LIGHTBLACK = '#6A6D6C'
 const LIGHTRED = '#E47267'
 const LIGHTGREEN = '#25D483'
 const LIGHTYELLOW = '#E8DA7D'
-const LIGHTORANGE = '#F4BF5D'
+const LIGHTBLUE = '#71BAEF'
 const LIGHTPURPLE = '#C181E4'
-const LIGHTCYAN = '#71BAEF'
+const LIGHTORANGE = '#F4BF5D'
 const LIGHTWHITE = '#DADDDC'
 
 const colors = {
@@ -25,17 +25,17 @@ const colors = {
   red: RED,
   green: GREEN,
   yellow: YELLOW,
-  blue: ORANGE,
+  blue: BLUE,
   magenta: PURPLE,
-  cyan: CYAN,
+  cyan: ORANGE,
   white: WHITE,
   lightBlack: LIGHTBLACK,
   lightRed: LIGHTRED,
   lightGreen: LIGHTGREEN,
   lightYellow: LIGHTYELLOW,
-  lightBlue: LIGHTORANGE,
+  lightBlue: LIGHTBLUE,
   lightMagenta: LIGHTPURPLE,
-  lightCyan: LIGHTCYAN,
+  lightCyan: LIGHTORANGE,
   lightWhite: LIGHTWHITE
 }
 
